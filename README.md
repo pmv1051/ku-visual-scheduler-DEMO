@@ -34,6 +34,8 @@ The Kyoto University syllabus site lets students look up courses, but it has no 
 <table>
   <tr>
     <td><img src="assets/timetable.png" alt="Timetable" /></td>
+  <tr> 
+  </tr>
     <td><img src="assets/routemap.png" alt="Class route map" /></td>
   </tr>
   <tr>
